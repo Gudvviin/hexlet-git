@@ -1,2 +1,1 @@
-Hello, Hexlet!
-brown eyes, dawn
+Hello, Hexlet! How are you?
