@@ -1,1 +1,5 @@
-INFO.md
+access.log
+node_mobules/
+/coverage/
+/db/*.sqlite3
+doc/**/*.txt
